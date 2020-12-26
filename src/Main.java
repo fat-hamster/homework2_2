@@ -13,7 +13,7 @@ public class Main {
             }
         }
         //arr[1][2] = "str"; // Exception MyArrayDataException и NumberFormatException
-        System.out.println(hw.sumArray(arr)); // Вычисление суммы
+        System.out.println("Сумма всех элементов массива равна: " + hw.sumArray(arr)); // Вычисление суммы
         //System.out.println(hw.sumArray(arr1)); // Exception MySizeArrayException
     }
 }
